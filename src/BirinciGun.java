@@ -12,16 +12,10 @@ public class BirinciGun {
 		System.out.println("ben buradan conflict beklemiyorum...");
 		System.out.println("yepyeni bir satir");
 		System.out.println("10:26  - feature branch");
-<<<<<<< HEAD
-<<<<<<< HEAD
 		System.out.println("10:58 - feature branch");
-=======
-		
->>>>>>> master
-=======
 		System.out.println("11:09 - master branch");
+		System.out.println("11:20 - feature branch");
 
->>>>>>> master
 
 
 
