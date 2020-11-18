@@ -2,7 +2,7 @@
 public class BirinciGun {
 	public static void main(String[] args) {
 		
-		System.out.println("11:57 - Birinci GÃ¼n");
+		System.out.println("BEN 12:00'DA BU SATÝRÝ FEATURE BRANCHTE DEGÝSTÝRDÝM");
 		System.out.println("Ä°kinci Commit");
 		System.out.println("10:11 - Ä°kinci gÃ¼n");
 		System.out.println("10:26 - Ä°kinci gÃ¼n");
